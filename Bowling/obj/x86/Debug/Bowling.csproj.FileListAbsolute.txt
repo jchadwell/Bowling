@@ -1,0 +1,4 @@
+C:\DEV\Windows\Bowling\Bowling\bin\Debug\Bowling.exe
+C:\DEV\Windows\Bowling\Bowling\bin\Debug\Bowling.pdb
+C:\DEV\Windows\Bowling\Bowling\obj\x86\Debug\Bowling.exe
+C:\DEV\Windows\Bowling\Bowling\obj\x86\Debug\Bowling.pdb
